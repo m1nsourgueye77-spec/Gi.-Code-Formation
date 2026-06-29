@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://g-mansour1977.github.io/Formation-en-Bureautique/sitemap.xml

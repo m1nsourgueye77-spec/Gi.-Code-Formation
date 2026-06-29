@@ -1,0 +1,37 @@
+[
+  {
+    "id": "word",
+    "icone": "💻",
+    "titre": "Word",
+    "description": "Maîtrisez la mise en forme de documents professionnels.",
+    "page": "word.html",
+    "fichiers": [
+      { "nom": "Cours 1", "url": "Gi. Code Cours Word 1 Présentation.pdf" },
+      { "nom": "Cours 2", "url": "Gi. Code Cours 2 Word.pdf" },
+      { "nom": "Cours 3", "url": "Gi. Code Cours 3 Word.pdf" }
+    ]
+  },
+  {
+    "id": "excel",
+    "icone": "📊",
+    "titre": "Excel",
+    "description": "Créez des tableaux dynamiques et utilisez des formules.",
+    "page": "excel.html",
+    "fichiers": [
+      { "nom": "Présentation", "url": "Gi. Code Cours Excel Presentation.pdf" },
+      { "nom": "Cours 1", "url": "Skill 1 Excel.pdf" },
+      { "nom": "Cours 2", "url": "Skill 2 Excel.pdf" }
+    ]
+  },
+  {
+    "id": "powerpoint",
+    "icone": "📽",
+    "titre": "PowerPoint",
+    "description": "Concevez des présentations modernes et efficaces.",
+    "page": "powerpoint.html",
+    "fichiers": [
+      { "nom": "Cours 1", "url": "Gi. Code Cours 1 PowerPoint.pdf" },
+      { "nom": "Cours 2", "url": "Gi. Code Cours 2 PowerPoint.pdf" }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+# Ignorer le fichier de configuration réel
+config.php
+
+# (éventuellement) d'autres fichiers sensibles
+*.log
+/vendor/
+node_modules/
